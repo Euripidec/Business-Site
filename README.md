@@ -1,0 +1,3 @@
+I'm actually very proud of this project (even though I will admit it's still amatuerish 🤣)
+
+This project was me building a website for a company from scratch no design spec or anything. I based this projects on a fictional company called Harrison Armory from a table top game called Lancer (link to thier website: [HERE](https://massifpress.com/)) This project really put my understanding of HTML and CSS to the test and I'm glad it did because I dee feel like I have a better overal understanding of both but aswell as trying to find the solutions to my problems (such as haveing my own repositories for reocourring elements like the nav-bar). 
